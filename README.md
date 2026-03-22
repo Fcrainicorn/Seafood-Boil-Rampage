@@ -28,6 +28,6 @@ A receipt.txt file is generated only if you successfully clear the game and coll
 The receipt contains your final score and itemized results from your run.
 
 ## Credits
-All art, story, endings, and gameplay additions were created by me.
+All art(using Canva), story, endings, and gameplay additions were created by me.
 
 Audio was self-produced and curated by me using GarageBand, YouTube Studio, and Freesound.
